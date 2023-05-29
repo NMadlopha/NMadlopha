@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am Naledi Madlopha a Software Engineer by profession, I write articles and create videos about architectures of large-scale Internet Services, Scalability, Distributed Systems, Databases, Cloud Computing and Software Engineering in general. Most importantly, I WRITE CODE. 😁
+I am Naledi Madlopha, a Software Engineer with a passion for technology and crafting qaulity products.
 
 - 🔭 I’m currently working on DLV.
 - 🌱 I’m currently learning how to write
